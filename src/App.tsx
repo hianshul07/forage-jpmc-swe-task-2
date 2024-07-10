@@ -8,7 +8,7 @@ import './App.css';
  */
 interface IState {
 	data: ServerRespond[];
-	showGraph: Boolean;
+	showGraph: boolean;
 }
 
 /**
